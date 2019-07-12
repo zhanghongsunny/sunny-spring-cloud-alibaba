@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/sunny-spring-cloud-alibaba.iml" filepath="$PROJECT_DIR$/.idea/sunny-spring-cloud-alibaba.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sunny-spring-cloud-alibaba-dependencies/sunny-spring-cloud-alibaba-dependencies.iml" filepath="$PROJECT_DIR$/sunny-spring-cloud-alibaba-dependencies/sunny-spring-cloud-alibaba-dependencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sunny-spring-cloud-alibaba-nacos-provider/sunny-spring-cloud-alibaba-nacos-provider.iml" filepath="$PROJECT_DIR$/sunny-spring-cloud-alibaba-nacos-provider/sunny-spring-cloud-alibaba-nacos-provider.iml" />
+    </modules>
+  </component>
+</project>
