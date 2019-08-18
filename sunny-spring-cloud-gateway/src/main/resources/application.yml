@@ -38,7 +38,7 @@ spring:
             - Method=GET,POST
 
 server:
-  port: 9000
+  port: 8202
 
 # 目前无效
 feign:
